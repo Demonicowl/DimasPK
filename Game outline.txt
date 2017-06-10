@@ -1,0 +1,16 @@
+GAME
+
+  WORLD
+    Trees
+      Type
+        mourning tree
+        fern
+    Caves
+      Type
+        iron
+        stone
+    Dungeons
+  ENEMIES
+  DUNGEONS
+  CHARACTER
+  LOOT
